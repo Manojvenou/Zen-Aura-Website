@@ -38,7 +38,7 @@ How to View
 
 1. Clone or download this repository:
    
-   git clone 
+   git clone https://github.com/Manojvenou/Zen-Aura-Website.git
   
 2. Open `index.html` in any modern web browser.
 
