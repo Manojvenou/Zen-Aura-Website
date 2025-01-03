@@ -15,6 +15,7 @@ Features
 Project Structure
 
 ZenAuraWebsite/
+
 ├── index.html         # Main HTML file
 
 ├── styles.css         # Custom CSS (if applicable)
