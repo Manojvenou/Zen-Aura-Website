@@ -14,12 +14,13 @@ Features
 
 Project Structure
 
-ZenAuraWebsite
+ZenAuraWebsite/
 ├── index.html         # Main HTML file
-├── styles.css         # Custom CSS 
+├── styles.css         # Custom CSS (if applicable)
 ├── script.js          # JavaScript file (for interactivity)
 ├── assets/            # Folder containing images and other media
 └── README.md          # Project documentation
+
 
 Technologies Used
 
